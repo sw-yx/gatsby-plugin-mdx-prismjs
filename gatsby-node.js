@@ -5,7 +5,11 @@ exports.modifyWebpackConfig = ({ config, stage }) => {
   const mdFiles = /\.mdx?$/;
   config.loader(`mdx`, {
     test: mdFiles,
-    loaders: ['babel-loader?' + 'babelrc=false,' + 'presets[]=env,' + 'presets[]=react', '@mdx-js/loader']
+    loaders: [
+      'babel-loader?' + 'babelrc=false,' + 'presets[]=env,' + 'presets[]=react',
+      // '@mdx-js/loader'
+      path.resolve('markdown-loader.js')
+    ]
   });
 };
 

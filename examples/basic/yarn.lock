@@ -3249,9 +3249,9 @@ gatsby-module-loader@^1.0.11:
     babel-runtime "^6.26.0"
     loader-utils "^0.2.16"
 
-gatsby-plugin-mdx@^1.0.1:
+gatsby-plugin-mdx-prismjs@^1.0.1:
   version "1.0.1"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-1.0.1.tgz#238ecc7418bb24dade96061103379ffa29799740"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx-prismjs/-/gatsby-plugin-mdx-prismjs-1.0.1.tgz#6510103cea101fe72d8473ce4dc5e331dd29a0a7"
 
 gatsby-plugin-react-helmet@^2.0.10:
   version "2.0.11"

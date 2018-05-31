@@ -7,3 +7,11 @@ these are markdown text
 ## React Components:
 
 <MyComponent />
+
+```js
+function test() {
+  return <MyComponent />
+}
+```
+
+slkdjs

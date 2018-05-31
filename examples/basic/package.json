@@ -7,7 +7,7 @@
     "chart.js": "^2.7.2",
     "gatsby": "^1.9.247",
     "gatsby-link": "^1.6.40",
-    "gatsby-plugin-mdx": "^1.0.1",
+    "gatsby-plugin-mdx-prismjs": "^1.0.1",
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-source-filesystem": "^1.5.36",
     "react-chartjs-2": "^2.7.2",

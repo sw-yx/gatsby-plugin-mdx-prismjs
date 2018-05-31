@@ -4,7 +4,7 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-mdx',
+    'gatsby-plugin-mdx-prismjs',
     {
       resolve: 'gatsby-source-filesystem',
       options: {

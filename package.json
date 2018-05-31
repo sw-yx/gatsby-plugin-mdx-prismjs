@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-mdx-prismjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "mdx plugin for gatsby with prismjs highlighting",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "watch": "babel -w src --out-dir . --ignore __tests__"
   },
   "keywords": ["gatsby", "gatsby-plugin", "markdown", "mdx", "jsx", "prismjs"],
-  "author": "swyx",
+  "author": "sw-yx",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {

@@ -1,5 +1,5 @@
 // const webpack = require(`webpack`)
-
+const path = require('path');
 // Add Glamor support
 exports.modifyWebpackConfig = ({ config, stage }) => {
   const mdFiles = /\.mdx?$/;

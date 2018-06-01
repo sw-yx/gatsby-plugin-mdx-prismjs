@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-mdx-prismjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "mdx plugin for gatsby with prismjs highlighting",
   "main": "index.js",
   "scripts": {

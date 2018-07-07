@@ -1,3 +1,5 @@
+# NOT WORKING YET - THIS IS ABANDONED FOR NOW I MAY PICK IT UP AGAIN IN FUTURE
+
 # gatsby-plugin-mdx-prismjs
 
 a fork of https://github.com/nhducit/gatsby-plugin-mdx and @reach/router's docs. adds prismjs to your mdx.
